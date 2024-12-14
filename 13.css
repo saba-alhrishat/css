@@ -1,0 +1,7 @@
+body {
+    height: 700px ;
+    background-image: url("C:\Users\Orange\Desktop\ht,cs\bac4.webp"), url("C:\Users\Orange\Desktop\ht,cs\bac3.jpeg") ;
+    
+background-repeat: repeat-y , repeat-x ;
+background-size: contain;
+}
